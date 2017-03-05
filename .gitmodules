@@ -1,3 +1,3 @@
 [submodule "themes/motofans"]
 	path = themes/motofans
-	url = https://github.com/Unsolemn/hugo-catalog-theme
+	url = git@github.com:Unsolemn/hugo-catalog-theme.git
