@@ -1,0 +1,7 @@
+theme = "motofans"
+title = "Moto.fans"
+baseUrl = "http://moto.fans/"
+[taxonomies]
+brand = "brands"
+year = "years"
+category = "categories"
