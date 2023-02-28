@@ -1,7 +1,6 @@
 theme = "motofans"
-title = "Moto.fans"
-baseUrl = "http://moto.fans/"
+title = "Movies"
+baseUrl = "http://movie.fans/"
 [taxonomies]
-brand = "brands"
-year = "years"
-category = "categories"
+name = "name"
+year = "year"
