@@ -2,5 +2,7 @@ theme = "motofans"
 title = "Movies"
 baseUrl = "http://movie.fans/"
 [taxonomies]
+id = "id"
 name = "name"
 year = "year"
+alternativeName = "alternativeName"
